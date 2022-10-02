@@ -1,0 +1,1904 @@
+fileFormatVersion: 2
+guid: 201956745f88610428c04bd239e6fe59
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4395850244824154869
+    second: father_0
+  - first:
+      213: -8990988597651595587
+    second: father_1
+  - first:
+      213: -8135098442065852188
+    second: father_2
+  - first:
+      213: 7195051019155112686
+    second: father_3
+  - first:
+      213: 998903285005021771
+    second: father_4
+  - first:
+      213: 4170537142238783095
+    second: father_5
+  - first:
+      213: 4373060758250987513
+    second: father_6
+  - first:
+      213: 522153123754694648
+    second: father_7
+  - first:
+      213: 490766211128225884
+    second: father_8
+  - first:
+      213: -1779511415631497749
+    second: father_9
+  - first:
+      213: -7633106201489091594
+    second: father_10
+  - first:
+      213: 4484951315531140278
+    second: father_11
+  - first:
+      213: -1394327528782499320
+    second: father_12
+  - first:
+      213: -7120610664027996600
+    second: father_13
+  - first:
+      213: -3762174085223403877
+    second: father_14
+  - first:
+      213: -6469308302744392559
+    second: father_15
+  - first:
+      213: -1697763337685741516
+    second: father_16
+  - first:
+      213: -7747433780252105753
+    second: father_17
+  - first:
+      213: -297469863905027796
+    second: father_18
+  - first:
+      213: -7250224077306626907
+    second: father_19
+  - first:
+      213: -7568342229337824647
+    second: father_20
+  - first:
+      213: 2245510976834997274
+    second: father_21
+  - first:
+      213: -3388911420865220355
+    second: father_22
+  - first:
+      213: 2048605448862289186
+    second: father_23
+  - first:
+      213: 7139536830832016699
+    second: father_24
+  - first:
+      213: -7235068938933529866
+    second: father_25
+  - first:
+      213: 6809476457010201005
+    second: father_26
+  - first:
+      213: 3740673469854080090
+    second: father_27
+  - first:
+      213: -5224481249751708963
+    second: father_28
+  - first:
+      213: -6018707945488816982
+    second: father_29
+  - first:
+      213: -8125907783327551173
+    second: father_30
+  - first:
+      213: 125083589644520963
+    second: father_31
+  - first:
+      213: 4704000159878339282
+    second: father_32
+  - first:
+      213: -7618523914929107891
+    second: father_33
+  - first:
+      213: 8223131317965180338
+    second: father_34
+  - first:
+      213: -2089209170316219833
+    second: father_35
+  - first:
+      213: 5706592687641109161
+    second: father_36
+  - first:
+      213: 1151457760909193212
+    second: father_37
+  - first:
+      213: -1537279016670068873
+    second: father_38
+  - first:
+      213: 4333036097102145127
+    second: father_39
+  - first:
+      213: -577824723320626127
+    second: father_40
+  - first:
+      213: -89889273599393894
+    second: father_41
+  - first:
+      213: -847627969247638022
+    second: father_42
+  - first:
+      213: -8340013317530015753
+    second: father_43
+  - first:
+      213: 2609582717838960988
+    second: father_44
+  - first:
+      213: -8023747379875127047
+    second: father_45
+  - first:
+      213: -7537585209660072858
+    second: father_46
+  - first:
+      213: -3750974699337415824
+    second: father_47
+  - first:
+      213: 7239868314994545971
+    second: father_48
+  - first:
+      213: 1210020968044457637
+    second: father_49
+  - first:
+      213: 8894284295795228949
+    second: father_50
+  - first:
+      213: 2095892258641139199
+    second: father_51
+  - first:
+      213: -6243140189395274864
+    second: father_52
+  - first:
+      213: 2200781090972060746
+    second: father_53
+  - first:
+      213: -7299011360007201129
+    second: father_54
+  - first:
+      213: 5573272632804591441
+    second: father_55
+  - first:
+      213: 352801399077263557
+    second: father_56
+  - first:
+      213: -70600908577356199
+    second: father_57
+  - first:
+      213: -3620311362359539262
+    second: father_58
+  - first:
+      213: -5590195096796573426
+    second: father_59
+  - first:
+      213: 5383140438887068183
+    second: father_60
+  - first:
+      213: 6331573149831724101
+    second: father_61
+  - first:
+      213: 3879133439995841365
+    second: father_62
+  - first:
+      213: -1254561688384900048
+    second: father_63
+  - first:
+      213: -204019875170760999
+    second: father_64
+  - first:
+      213: -6054053657867077964
+    second: father_65
+  - first:
+      213: 1739070003149976470
+    second: father_66
+  - first:
+      213: -7138935373531554075
+    second: father_67
+  - first:
+      213: 3584211578547043573
+    second: father_68
+  - first:
+      213: 1119743070809802495
+    second: father_69
+  - first:
+      213: 7446618479716770148
+    second: father_70
+  - first:
+      213: 247517315539443741
+    second: father_71
+  - first:
+      213: 1619029055754468194
+    second: father_72
+  - first:
+      213: 7185997480247734931
+    second: father_73
+  - first:
+      213: -1175381823704623113
+    second: father_74
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: father_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 935
+        width: 86
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2ce88e182310d30800000000000000
+      internalID: 4395850244824154869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: father_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 935
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe9369b187993380800000000000000
+      internalID: -8990988597651595587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: father_2
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 935
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8c4db81135a1f80800000000000000
+      internalID: -8135098442065852188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: father_3
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 935
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee28d89e7c4f9d360800000000000000
+      internalID: 7195051019155112686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: father_4
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 935
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42f1bbce31dcdd00800000000000000
+      internalID: 998903285005021771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: father_5
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 935
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77627b53f69b0e930800000000000000
+      internalID: 4170537142238783095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: father_6
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 935
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff10c4179b30bc30800000000000000
+      internalID: 4373060758250987513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: father_7
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 935
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f752c3ef7f0f3700800000000000000
+      internalID: 522153123754694648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: father_8
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 935
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50ff02d44d8fc600800000000000000
+      internalID: 490766211128225884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: father_9
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 935
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be53885bbc7ed47e0800000000000000
+      internalID: -1779511415631497749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: father_10
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 850
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f359670a52c11690800000000000000
+      internalID: -7633106201489091594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: father_11
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 850
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc872d857fbd3e30800000000000000
+      internalID: 4484951315531140278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: father_12
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 850
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802fe52008a56ace0800000000000000
+      internalID: -1394327528782499320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: father_13
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 850
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84eb0c2e3528e2d90800000000000000
+      internalID: -7120610664027996600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: father_14
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 850
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e24133a921acbc0800000000000000
+      internalID: -3762174085223403877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: father_15
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 850
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c6f60ef566836a0800000000000000
+      internalID: -6469308302744392559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: father_16
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 850
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4305f805d355078e0800000000000000
+      internalID: -1697763337685741516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: father_17
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 854
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3263746069b7490800000000000000
+      internalID: -7747433780252105753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: father_18
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 854
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c299e8e1cbc2fdbf0800000000000000
+      internalID: -297469863905027796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: father_19
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 854
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac77227d97026b90800000000000000
+      internalID: -7250224077306626907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: father_20
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 769
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9722bb957d8d7f690800000000000000
+      internalID: -7568342229337824647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: father_21
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 765
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c8d711658a92f10800000000000000
+      internalID: 2245510976834997274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: father_22
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 765
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df07018940b28f0d0800000000000000
+      internalID: -3388911420865220355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: father_23
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 765
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22dcd504dcb1e6c10800000000000000
+      internalID: 2048605448862289186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: father_24
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 765
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d7f86bbeab41360800000000000000
+      internalID: 7139536830832016699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: father_25
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 765
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f29761122fd79b90800000000000000
+      internalID: -7235068938933529866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: father_26
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 765
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da18a7e62ce108e50800000000000000
+      internalID: 6809476457010201005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: father_27
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 765
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c516fa3ba89e330800000000000000
+      internalID: 3740673469854080090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: father_28
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 765
+        width: 88
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda4cdcdbf9ee77b0800000000000000
+      internalID: -5224481249751708963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: father_29
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 765
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa461561301497ca0800000000000000
+      internalID: -6018707945488816982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: father_30
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 680
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31fd298ce9fa3f80800000000000000
+      internalID: -8125907783327551173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: father_31
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 680
+        width: 88
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e0effacd26cb100800000000000000
+      internalID: 125083589644520963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: father_32
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 680
+        width: 88
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dadde8f837f74140800000000000000
+      internalID: 4704000159878339282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: father_33
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 680
+        width: 88
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c05d13dd0954690800000000000000
+      internalID: -7618523914929107891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: father_34
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 680
+        width: 88
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd44bc9d5e6e1270800000000000000
+      internalID: 8223131317965180338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: father_35
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 680
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a20d52453a103e0800000000000000
+      internalID: -2089209170316219833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: father_36
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 680
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2a0b880d3e13f40800000000000000
+      internalID: 5706592687641109161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: father_37
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 680
+        width: 88
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cffebdc9bbccaff00800000000000000
+      internalID: 1151457760909193212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: father_38
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 680
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ff7b211ec7aaae0800000000000000
+      internalID: -1537279016670068873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: father_39
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 680
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766e7b67f59022c30800000000000000
+      internalID: 4333036097102145127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: father_40
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 595
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1342900c9772bf7f0800000000000000
+      internalID: -577824723320626127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: father_41
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 595
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f7df19e26a0cef0800000000000000
+      internalID: -89889273599393894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: father_42
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 595
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd0f475ade9c34f0800000000000000
+      internalID: -847627969247638022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: father_43
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 595
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7a8923312524c80800000000000000
+      internalID: -8340013317530015753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: father_44
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 595
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c592accd7a9173420800000000000000
+      internalID: 2609582717838960988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: father_45
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 595
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f06217054ce5a090800000000000000
+      internalID: -8023747379875127047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: father_46
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 595
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c19f9003e156790800000000000000
+      internalID: -7537585209660072858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: father_47
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 595
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073048c626cd1fbc0800000000000000
+      internalID: -3750974699337415824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: father_48
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 595
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3351bdfbfdd297460800000000000000
+      internalID: 7239868314994545971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: father_49
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 595
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae6013d8abdac010800000000000000
+      internalID: 1210020968044457637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: father_50
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 510
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511c53e6178de6b70800000000000000
+      internalID: 8894284295795228949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: father_51
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 510
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5dbcb97ea161d10800000000000000
+      internalID: 2095892258641139199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: father_52
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 510
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09331284319eb59a0800000000000000
+      internalID: -6243140189395274864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: father_53
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 509
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c49c3fdbeba8e10800000000000000
+      internalID: 2200781090972060746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: father_54
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 509
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79eda3307d3b4ba90800000000000000
+      internalID: -7299011360007201129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: father_55
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 509
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15749ba5eed385d40800000000000000
+      internalID: 5573272632804591441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: father_56
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 509
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8d244d00765e400800000000000000
+      internalID: 352801399077263557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: father_57
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 509
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9564d6309dc250ff0800000000000000
+      internalID: -70600908577356199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: father_58
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 509
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9cf364ff112cdc0800000000000000
+      internalID: -3620311362359539262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: father_59
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 510
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e015f467d23ab62b0800000000000000
+      internalID: -5590195096796573426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: father_60
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 425
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71277e345b1c4ba40800000000000000
+      internalID: 5383140438887068183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: father_61
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 425
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54cfe11db344ed750800000000000000
+      internalID: 6331573149831724101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: father_62
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 425
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b8a47af4375d530800000000000000
+      internalID: 3879133439995841365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: father_63
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 425
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034f0079ac6e69ee0800000000000000
+      internalID: -1254561688384900048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: father_64
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 425
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6c355210d2b2df0800000000000000
+      internalID: -204019875170760999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: father_65
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 425
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6bdaf164eabfba0800000000000000
+      internalID: -6054053657867077964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: father_66
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 425
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693ba4134fa622810800000000000000
+      internalID: 1739070003149976470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: father_67
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 425
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee5e2af9186dec90800000000000000
+      internalID: -7138935373531554075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: father_68
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 425
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc7323d07dadb130800000000000000
+      internalID: 3584211578547043573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: father_69
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 425
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6c257e3602a8f00800000000000000
+      internalID: 1119743070809802495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: father_70
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 340
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461a06dad04b75760800000000000000
+      internalID: 7446618479716770148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: father_71
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 339
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10ac74efab5f6300800000000000000
+      internalID: 247517315539443741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: father_72
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 339
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26bf7452952f77610800000000000000
+      internalID: 1619029055754468194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: father_73
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 339
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392b40f92aac9b360800000000000000
+      internalID: 7185997480247734931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: father_74
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 339
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f792a2757430bfe0800000000000000
+      internalID: -1175381823704623113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

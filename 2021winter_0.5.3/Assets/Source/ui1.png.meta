@@ -1,0 +1,1388 @@
+fileFormatVersion: 2
+guid: f02c8fb71f58f97448e2f8cfcb4d96e4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5707218116961789024
+    second: ui_player
+  - first:
+      213: 3556181715638617739
+    second: ui_boss
+  - first:
+      213: -8816031292267695619
+    second: ui_tmp
+  - first:
+      213: 7263181891274304025
+    second: ui_checker
+  - first:
+      213: -7975249404588759376
+    second: ui_checker_32
+  - first:
+      213: -9005941153719796207
+    second: ui_checker_16
+  - first:
+      213: 2163036573998151787
+    second: ui_face_swamp
+  - first:
+      213: 8599436577718238185
+    second: ui_name_swamp
+  - first:
+      213: -9080700020481880845
+    second: ui_system
+  - first:
+      213: -6774437969098921397
+    second: ui_hp_boss
+  - first:
+      213: -7334886338573059942
+    second: ui_hp_player1
+  - first:
+      213: 8852797563311604980
+    second: ui_skill_sword_a
+  - first:
+      213: -7420991742971661633
+    second: ui_skill_sword_d
+  - first:
+      213: 6071220295474305178
+    second: ui_skill_sword_f
+  - first:
+      213: 2697481083480110284
+    second: mask_hp_boss
+  - first:
+      213: 1712464482933603101
+    second: mask_hp_player
+  - first:
+      213: 4874896633046561287
+    second: mask_weapon1_main
+  - first:
+      213: -7787622976490332879
+    second: mask_weapon1_sub
+  - first:
+      213: 3793417686556777753
+    second: mask_skill_a
+  - first:
+      213: 8450739732141010018
+    second: mask_skill_d
+  - first:
+      213: 5660285115890169063
+    second: mask_skill_f
+  - first:
+      213: 8950759142192175709
+    second: ui_weapon_main_sword
+  - first:
+      213: 9193187447140095505
+    second: ui_weapon_sub_blade
+  - first:
+      213: -3120730603551926074
+    second: ui_skill_cool_a
+  - first:
+      213: 8825907884645483951
+    second: ui_skill_cool_d
+  - first:
+      213: -5130057317469923895
+    second: ui_skill_cool_f
+  - first:
+      213: 8062878643169288418
+    second: ui_weapon_cool2
+  - first:
+      213: -2699499167317838321
+    second: ui_face_dummy
+  - first:
+      213: -9211019987572867793
+    second: ui_name_dummy
+  - first:
+      213: 4345737136876090114
+    second: ui_player_weapon1
+  - first:
+      213: 7942766610401834
+    second: ui_player_weapon2
+  - first:
+      213: 4760122182489031857
+    second: ui_weapon_cool1
+  - first:
+      213: -8169443869180056843
+    second: mask_weapon2_sub
+  - first:
+      213: 484147688360987151
+    second: mask_weapon2_main
+  - first:
+      213: -6581236438092493126
+    second: ui_hp_player2
+  - first:
+      213: 1519976278310890457
+    second: ui_hp_player3
+  - first:
+      213: -3852415604142703997
+    second: ui_hp_player4
+  - first:
+      213: 6526019330321165355
+    second: ui_hp_player5
+  - first:
+      213: 7405874934776544522
+    second: ui_hp_player6
+  - first:
+      213: 7878984379315035186
+    second: ui_weapon_main_blade
+  - first:
+      213: 4405042341552306007
+    second: ui_weapon_main_wand
+  - first:
+      213: 634995863467985702
+    second: ui_weapon_main_xbow
+  - first:
+      213: 4714179634838269857
+    second: ui_weapon_sub_xbow
+  - first:
+      213: 3699333400898179902
+    second: ui_weapon_sub_wand
+  - first:
+      213: 1576587562003357112
+    second: ui_weapon_sub_sword
+  - first:
+      213: 5620536148641368662
+    second: ui_hp_boss_hit
+  - first:
+      213: 746119148022661752
+    second: temp_king
+  - first:
+      213: -1040752566148317863
+    second: ui_screamer
+  - first:
+      213: -1428343045097177494
+    second: ui_face_army
+  - first:
+      213: -8854440359508992192
+    second: ui_name_army
+  - first:
+      213: 379238009118502089
+    second: ui_face_wistonne
+  - first:
+      213: -8892980734791805901
+    second: ui_name_wistonne
+  - first:
+      213: -471656684995524549
+    second: ui_hp_mob
+  - first:
+      213: 95130697087732741
+    second: ui_hp_mob_bar
+  - first:
+      213: -6895883965298516823
+    second: ui_face_king
+  - first:
+      213: -4870832788559571132
+    second: ui_name_king
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ui_player
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 900
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0646e25a3ac143f40800000000000000
+      internalID: 5707218116961789024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_boss
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 740
+        width: 160
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86016dcd681a5130800000000000000
+      internalID: 3556181715638617739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_face_swamp
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 948
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b687655cd46a40e10800000000000000
+      internalID: 2163036573998151787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_name_swamp
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 964
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb75637106575770800000000000000
+      internalID: 8599436577718238185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_system
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 836
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc8b47617fdaf180800000000000000
+      internalID: -9080700020481880845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_hp_boss
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 596
+        width: 128
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4aa0f24f8c5cf1a0800000000000000
+      internalID: -6774437969098921397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_hp_player1
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 516
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98bc79acbf353a90800000000000000
+      internalID: -7334886338573059942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_skill_sword_a
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 484
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4c1adca747bda70800000000000000
+      internalID: 8852797563311604980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_skill_sword_d
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 484
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2311fe357530990800000000000000
+      internalID: -7420991742971661633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_skill_sword_f
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 484
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9853e821be414450800000000000000
+      internalID: 6071220295474305178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_hp_boss
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 788
+        width: 128
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4fa29e0c06f6520800000000000000
+      internalID: 2697481083480110284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_hp_player
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 740
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1bfabbcf55e3c710800000000000000
+      internalID: 1712464482933603101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_weapon1_main
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 772
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702fc71d8ac17a340800000000000000
+      internalID: 4874896633046561287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_weapon1_sub
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 772
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d9f99d92ecce390800000000000000
+      internalID: -7787622976490332879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_skill_a
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 612
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d96eb994de4a430800000000000000
+      internalID: 3793417686556777753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_skill_d
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 564
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c6b8f230f074570800000000000000
+      internalID: 8450739732141010018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_skill_f
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 516
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4701cc25f5d8e40800000000000000
+      internalID: 5660285115890169063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_weapon_main_sword
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 484
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ad174440c773c70800000000000000
+      internalID: 8950759142192175709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_weapon_sub_blade
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 420
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1169d5c8643c49f70800000000000000
+      internalID: 9193187447140095505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_skill_cool_a
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 388
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8d897ec00f0b4d0800000000000000
+      internalID: -3120730603551926074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_skill_cool_d
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 388
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa50d9c957ceb7a70800000000000000
+      internalID: 8825907884645483951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_skill_cool_f
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 388
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5dfcacc006ec8b0800000000000000
+      internalID: -5130057317469923895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_weapon_cool2
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 324
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e06031386915ef60800000000000000
+      internalID: 8062878643169288418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_face_dummy
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 852
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06be845fc3798ad0800000000000000
+      internalID: -2699499167317838321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_name_dummy
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 868
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d32b59f12eb2080800000000000000
+      internalID: -9211019987572867793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_player_weapon1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 964
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203f8bab6e82f4c30800000000000000
+      internalID: 4345737136876090114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_player_weapon2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 964
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ac85677e73c1000800000000000000
+      internalID: 7942766610401834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_weapon_cool1
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 324
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b447be97e95f0240800000000000000
+      internalID: 4760122182489031857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_weapon2_sub
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 676
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5faa705a51e40ae80800000000000000
+      internalID: -8169443869180056843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_weapon2_main
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 676
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a4597e1c908b600800000000000000
+      internalID: 484147688360987151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_hp_player2
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 516
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abec3a41450caa4a0800000000000000
+      internalID: -6581236438092493126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_hp_player3
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 484
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dbadb73f5a081510800000000000000
+      internalID: 1519976278310890457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_hp_player4
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 484
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38af6e34b68798ac0800000000000000
+      internalID: -3852415604142703997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_hp_player5
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 452
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c202d2104119a50800000000000000
+      internalID: 6526019330321165355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_hp_player6
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 452
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d3352e304f6c660800000000000000
+      internalID: 7405874934776544522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_weapon_main_blade
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 420
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c9cef5c86c75d60800000000000000
+      internalID: 7878984379315035186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_weapon_main_wand
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 356
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757b7c4bbaad12d30800000000000000
+      internalID: 4405042341552306007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_weapon_main_xbow
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 292
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b0adb9f55ffc800800000000000000
+      internalID: 634995863467985702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_weapon_sub_xbow
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 292
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af6aeda6612c6140800000000000000
+      internalID: 4714179634838269857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_weapon_sub_wand
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 356
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e331642d02ca65330800000000000000
+      internalID: 3699333400898179902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_weapon_sub_sword
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 484
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd5286d80a21e510800000000000000
+      internalID: 1576587562003357112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_hp_boss_hit
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 548
+        width: 128
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ac20b29d7200e40800000000000000
+      internalID: 5620536148641368662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: temp_king
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 884
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872020a796fba5a00800000000000000
+      internalID: 746119148022661752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_screamer
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 836
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d37a32e018e81f0800000000000000
+      internalID: -1040752566148317863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_face_army
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 660
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e359371918d2ce0800000000000000
+      internalID: -1428343045097177494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_name_army
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 676
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f9596e765be1580800000000000000
+      internalID: -8854440359508992192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_face_wistonne
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 756
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cca5d2c5f2534500800000000000000
+      internalID: 379238009118502089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_name_wistonne
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 772
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33497548329c59480800000000000000
+      internalID: -8892980734791805901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_hp_mob
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 788
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3847e27eb65479f0800000000000000
+      internalID: -471656684995524549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_hp_mob_bar
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 788
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c462f6dd8f15100800000000000000
+      internalID: 95130697087732741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_face_king
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 564
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9acd11cc116ec40a0800000000000000
+      internalID: -6895883965298516823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_name_king
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 580
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447d495b263576cb0800000000000000
+      internalID: -4870832788559571132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

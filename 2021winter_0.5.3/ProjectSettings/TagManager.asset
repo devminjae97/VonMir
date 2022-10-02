@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Platform
+  - Enemy
+  - Card
+  - X
+  - Untouchable
+  - Button
+  - NPC
+  - Body
+  - Boss
+  - FallingSkills
+  - Knight
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Enemy
+  - Mob
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: NPC
+    uniqueID: 718155369
+    locked: 0
+  - name: Enemy
+    uniqueID: 3752623249
+    locked: 0
+  - name: Player
+    uniqueID: 3779756417
+    locked: 0
+  - name: Map_OverPlayer
+    uniqueID: 3516266377
+    locked: 0
+  - name: Effect
+    uniqueID: 4079733283
+    locked: 0
+  - name: UI_Base
+    uniqueID: 2011818701
+    locked: 0
+  - name: UI_Weapon
+    uniqueID: 1107538749
+    locked: 0
+  - name: UI_Skill
+    uniqueID: 870698253
+    locked: 0
+  - name: UI_System
+    uniqueID: 1638801923
+    locked: 0
+  - name: UI_HP
+    uniqueID: 1968419921
+    locked: 0
+  - name: UI_Info
+    uniqueID: 1916468641
+    locked: 0
+  - name: UI_Inventory
+    uniqueID: 4293063771
+    locked: 0
+  - name: UI_Guide
+    uniqueID: 434719431
+    locked: 0
+  - name: UI_Window
+    uniqueID: 2755557227
+    locked: 0

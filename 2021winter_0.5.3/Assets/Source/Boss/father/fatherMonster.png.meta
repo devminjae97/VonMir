@@ -1,0 +1,833 @@
+fileFormatVersion: 2
+guid: 4d624b5ef32420d4db0a643a6b9836ee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9092906774885753064
+    second: fatherMonster (2)_0
+  - first:
+      213: 136214492457837283
+    second: fatherMonster (2)_1
+  - first:
+      213: 130113530262693696
+    second: fatherMonster (2)_2
+  - first:
+      213: 1294443783045452146
+    second: fatherMonster (2)_3
+  - first:
+      213: -7942705158201067885
+    second: fatherMonster (2)_4
+  - first:
+      213: 6435149970433030343
+    second: fatherMonster (2)_5
+  - first:
+      213: -5969819390304955349
+    second: fatherMonster (2)_6
+  - first:
+      213: 292766455559670507
+    second: fatherMonster (2)_7
+  - first:
+      213: 8662904330116230275
+    second: fatherMonster (2)_8
+  - first:
+      213: -5766241872942257831
+    second: fatherMonster (2)_9
+  - first:
+      213: -3899755790978105642
+    second: fatherMonster (2)_10
+  - first:
+      213: -705596671998729132
+    second: fatherMonster (2)_11
+  - first:
+      213: 951821621020742530
+    second: fatherMonster (2)_12
+  - first:
+      213: 6833118126807793403
+    second: fatherMonster (2)_13
+  - first:
+      213: 6030727816459379118
+    second: fatherMonster (2)_14
+  - first:
+      213: 6092887921052620571
+    second: fatherMonster (2)_15
+  - first:
+      213: 2542100185878809350
+    second: fatherMonster (2)_16
+  - first:
+      213: -2571934777587374817
+    second: fatherMonster (2)_17
+  - first:
+      213: 2822698718714276992
+    second: fatherMonster (2)_18
+  - first:
+      213: 4428439300028608372
+    second: fatherMonster (2)_19
+  - first:
+      213: 1231651080188210645
+    second: fatherMonster (2)_20
+  - first:
+      213: 8528457044513571013
+    second: fatherMonster (2)_21
+  - first:
+      213: 1963674815444983383
+    second: fatherMonster (2)_22
+  - first:
+      213: 1732447733827405498
+    second: fatherMonster (2)_23
+  - first:
+      213: -5349695197475574651
+    second: fatherMonster (2)_24
+  - first:
+      213: 7484900757816949094
+    second: fatherMonster (2)_25
+  - first:
+      213: -8134674299716110761
+    second: fatherMonster (2)_26
+  - first:
+      213: -6726775109034439873
+    second: fatherMonster_0
+  - first:
+      213: 3993366511266054483
+    second: fatherMonster_1
+  - first:
+      213: -7518377036790423202
+    second: fatherMonster_2
+  - first:
+      213: -8791707801934145262
+    second: fatherMonster_3
+  - first:
+      213: 3990384555931934097
+    second: fatherMonster_4
+  - first:
+      213: -3383432440214841198
+    second: fatherMonster_5
+  - first:
+      213: -5651117473935428323
+    second: fatherMonster_6
+  - first:
+      213: 6191903045912654750
+    second: fatherMonster_7
+  - first:
+      213: 6333600777826601219
+    second: fatherMonster_8
+  - first:
+      213: -7001529656649849201
+    second: fatherMonster_9
+  - first:
+      213: 4247641725857251639
+    second: fatherMonster_10
+  - first:
+      213: 4068883284738778829
+    second: fatherMonster_11
+  - first:
+      213: -1340191643205592001
+    second: fatherMonster_12
+  - first:
+      213: 2720038660283858918
+    second: fatherMonster_13
+  - first:
+      213: 4806219887258946446
+    second: fatherMonster_14
+  - first:
+      213: 7092949309695833310
+    second: fatherMonster_15
+  - first:
+      213: -1722429466342640172
+    second: fatherMonster_16
+  - first:
+      213: -8071398456510260242
+    second: fatherMonster_17
+  - first:
+      213: 2120612652660333860
+    second: fatherMonster_18
+  - first:
+      213: 7120671631518721405
+    second: fatherMonster_19
+  - first:
+      213: 7348833188278982293
+    second: fatherMonster_20
+  - first:
+      213: 2324863481268001204
+    second: fatherMonster_21
+  - first:
+      213: 3442069798163407857
+    second: fatherMonster_22
+  - first:
+      213: -6501547518331824458
+    second: fatherMonster_23
+  - first:
+      213: -7612985121514894065
+    second: fatherMonster_24
+  - first:
+      213: 2840089162671657482
+    second: fatherMonster_25
+  - first:
+      213: 2300358070711503992
+    second: fatherMonster_26
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fatherMonster_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1323
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b0016ada1b5a2a0800000000000000
+      internalID: -6726775109034439873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fatherMonster_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1274
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35144f92fa94b6730800000000000000
+      internalID: 3993366511266054483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fatherMonster_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1225
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5127aa4beb59a790800000000000000
+      internalID: -7518377036790423202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fatherMonster_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1176
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2195fa8a5549df580800000000000000
+      internalID: -8791707801934145262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fatherMonster_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1127
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d17859c91b06730800000000000000
+      internalID: 3990384555931934097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fatherMonster_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1078
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298167f2f12ab01d0800000000000000
+      internalID: -3383432440214841198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fatherMonster_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1029
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15731e29923391b0800000000000000
+      internalID: -5651117473935428323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fatherMonster_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 980
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93784f930f0ee550800000000000000
+      internalID: 6191903045912654750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fatherMonster_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 931
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3090e7fb95875e750800000000000000
+      internalID: 6333600777826601219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fatherMonster_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 882
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86e50b7fd195de90800000000000000
+      internalID: -7001529656649849201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fatherMonster_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 833
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73149da05a7a2fa30800000000000000
+      internalID: 4247641725857251639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fatherMonster_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 784
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc621632ac3977830800000000000000
+      internalID: 4068883284738778829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fatherMonster_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 735
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c98c71dcea66de0800000000000000
+      internalID: -1340191643205592001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fatherMonster_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 686
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef7c8900c48fb520800000000000000
+      internalID: 2720038660283858918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fatherMonster_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 637
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8bcc74e58f13b240800000000000000
+      internalID: 4806219887258946446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fatherMonster_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 588
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4b54e21d73f6260800000000000000
+      internalID: 7092949309695833310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fatherMonster_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 539
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d53bf3b683b818e0800000000000000
+      internalID: -1722429466342640172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fatherMonster_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 490
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eebd11f2ed1acff80800000000000000
+      internalID: -8071398456510260242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fatherMonster_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 441
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d940cd8fded6d10800000000000000
+      internalID: 2120612652660333860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fatherMonster_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 392
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75efd63f15b1d260800000000000000
+      internalID: 7120671631518721405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fatherMonster_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 343
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59658f459dc4cf560800000000000000
+      internalID: 7348833188278982293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fatherMonster_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 294
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9d140c403934020800000000000000
+      internalID: 2324863481268001204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fatherMonster_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 245
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f361ab9e30b4cf20800000000000000
+      internalID: 3442069798163407857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fatherMonster_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 196
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6528f8afcd5c5a0800000000000000
+      internalID: -6501547518331824458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fatherMonster_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 147
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d45c70e5e395690800000000000000
+      internalID: -7612985121514894065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fatherMonster_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 98
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a021b77cb060a6720800000000000000
+      internalID: 2840089162671657482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fatherMonster_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 49
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c46fc3a738cef10800000000000000
+      internalID: 2300358070711503992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
