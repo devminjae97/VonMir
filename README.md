@@ -4,7 +4,7 @@
 ##[VonMir]
 
 제작기간 : 2020.12 ~ 2021.03
-
+관련 영상 : https://www.youtube.com/watch?v=cso0qGuNbHA
 
 게임 설명
 * 장르 : 2D 도트 RPG 게임
